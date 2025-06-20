@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Python, SQL, and Machine Learning
 - 💞️ I’m looking to collaborate on research works on ML/AI
-- 📫 You can reach me via LinkedIn https://www.linkedin.com/in/ailene-n-5339122b5/
+- 📫 You can reach me via LinkedIn https://www.linkedin.com/in/anmondares/
 
 <!---
 ayla011/ayla011 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
